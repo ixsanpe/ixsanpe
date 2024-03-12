@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- :sun_with_face: I’m a ETH Zürich MSc student :switzerland: originally from Spain :es: !
+- 🔭 I’m currently learning about MLOps and ML applications 😄 
+- 🌱 I love nature and hiking 
 <!--
 **ixsanpe/ixsanpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
