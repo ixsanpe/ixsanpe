@@ -1,5 +1,5 @@
 ### Hi there 👋
-- :sun_with_face: I’m a ETH Zürich MSc student :switzerland: originally from Spain :es: !
+- :sun_with_face: I’m an ETH Zürich MSc student :switzerland: originally from Spain :es: !
 - 🔭 I’m currently learning about MLOps and ML applications 😄 
 - 🌱 I love nature and hiking 
 <!--
