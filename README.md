@@ -1,8 +1,16 @@
 ### Hi there 👋
-- :sun_with_face: I’m an ETH Zürich MSc student :switzerland: originally from Spain :es: !
-- 🔭 I’m currently learning about MLOps and ML applications 😄 
-- 🌱 I love nature and hiking 
+
+I'm a Data/ML Engineer 🤖 and ETH Zürich MSc graduate 🎓 originally from Spain 🇪🇸!
+
+- 💼 Working as a Data Engineer, building data pipelines & infrastructure at scale
+- 🤖 Side projects: AI-powered tools and ML systems
+- 🔭 Currently exploring MCP and LLMOps/MLOps best practices
+- 🌱 Passionate about mountain hiking ⛰️ and outdoor adventures
+- 💬 Ask me about ML, data engineering, AI systems, or travel tips and hikes !
+- 📫 Open to collaboration on ML/AI projects
+
 <!--
+
 **ixsanpe/ixsanpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
